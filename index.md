@@ -13,3 +13,10 @@ try {
   console.log("Nevermind it didn't")
 }
 ```
+
+### Checkboxes example
+- [x] Headers
+- [x] Images
+- [x] Code
+- [x] Checkboxes
+- [ ] Merging
