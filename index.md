@@ -4,3 +4,12 @@
 
 ### Image example
 ![Universe23](https://github.githubassets.com/images/modules/dashboard/universe23/logo.svg)
+
+### Code example
+```javascript
+try {
+  console.log(It_works)
+} catch (e) {
+  console.log("Nevermind it didn't")
+}
+```
